@@ -1,0 +1,17 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/v1/author/1"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "name": "Nome Teste",
+            "email": "teste@gmail.com",
+            "imageUrl": "http://imagem.teste.com"
+        }
+    }
+}
